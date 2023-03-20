@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 #import numpy as np
-pip install matplotlib
+#pip install matplotlib
 import matplotlib.pyplot as plt
 import logging
 #import seaborn as sns
